@@ -7,7 +7,7 @@ function helloWorld() {
 helloWorld();
 
 function greeting(name) {
-    blah = 'assigned';
+    // blah = 'assigned';
     console.log('Hello, ' + name + '!');
 }
 
